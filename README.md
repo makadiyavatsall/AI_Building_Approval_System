@@ -4,18 +4,15 @@
   <img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/building-animation.gif" width="300px">
 </p>
 
+
+
 <p align="center">
   <b>Smart automation for urban infrastructure decision-making using AI & ML</b><br>
   <i>Trained to predict whether a building application will be approved or not based on multiple attributes.</i>
 </p>
 
----
 
-## 🌟 Overview<h1 align="center">🏗️ AI-Based Building Approval Prediction System</h1>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/building-animation.gif" width="280px">
-</p>
 
 ---
 
